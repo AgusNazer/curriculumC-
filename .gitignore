@@ -1,0 +1,15 @@
+# Archivos de Code::Blocks
+*.layout
+*.depend
+*.workspace
+*.cbp
+*.o
+*.exe
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
