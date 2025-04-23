@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1745367650 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\contacto.cpp
+	<iostream>
+
+1745366719 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\educacion.cpp
+	<iostream>
+
+1745367385 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\experiencia.cpp
+	<iostream>
+
+1745367793 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\habilidades.cpp
+	<iostream>
+
+1745367219 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\projectos.cpp
+	<iostream>
+
+1745366214 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\sobre_mi.cpp
+	<iostream>
+
+1745367738 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\main.cpp
+	<iostream>
+	"menu.h"
+	"secciones/secciones.h"
+
+1745365691 c:\users\agust\desktop\proyectos\porfolioc++\agusdev\menu.h
+
+1745367730 c:\users\agust\desktop\proyectos\porfolioc++\agusdev\secciones\secciones.h
+
+1745367321 source:c:\users\agust\desktop\proyectos\porfolioc++\agusdev\menu.cpp
+	<iostream>
+
